@@ -1,0 +1,20 @@
+{
+  "name": "freecode_nodetutor",
+  "version": "1.0.0",
+  "description": "node-basic",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "celia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
